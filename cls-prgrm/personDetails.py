@@ -1,0 +1,8 @@
+n=input('enter the name')
+print(n)
+a=input('emter address')
+print(a)
+email=input('enter email')
+print(email)
+phone=input('enter no')
+print(phone)
